@@ -56,5 +56,4 @@ We’re excited to see your innovative projects. Best of luck to all the teams!
 ---
 
 **Organized by:** CodeNex Club, SRMIST  
-**Repository Maintainer:** [Your Name/Team Name]  
-**Contact:** [Your Email/Contact Info]
+**Repository Maintainer:** CodeNex Team
